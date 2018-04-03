@@ -65,7 +65,7 @@ The following options can be used:
     --collab         Whether to enable collab.
     --no-cache       Don't use the cached version of CSS
 
-Now visit [http://localhost:8181/ide.html](http://localhost:8181/ide.html) to load Cloud9.
+Now visit [http://localhost:8181/ide.html](http://localhost:8080/ide.html) to load Cloud9.
 
 #### Running Tests ####
 
